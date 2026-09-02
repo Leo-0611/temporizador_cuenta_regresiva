@@ -9,6 +9,8 @@ La aplicación muestra el tiempo restante en **días, horas, minutos y segundos*
 El proyecto está basado en la idea **Countdown Timer** de [App Ideas](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Countdown-Timer-App.md).
 
 ---
+<img width="760" height="684" alt="image" src="https://github.com/user-attachments/assets/a2cb2bd2-0112-4292-8d75-33eb1be5682c" />
+
 
 ## 🎯 Objetivo del proyecto
 
@@ -338,3 +340,5 @@ Proyecto desarrollado con fines académicos y de aprendizaje.
 ## 📄 Licencia
 
 Este proyecto fue desarrollado con fines educativos.
+
+
